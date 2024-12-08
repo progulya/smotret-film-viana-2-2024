@@ -17,7 +17,7 @@
     <title>Фильм Моана 2 (2024) Смотреть онлайн в хорошем качестве</title>
   </head>
   <body>
-    <object width="560" height="315" data="https://www.youtube.com/embed/0mTAscD4vt8">
+    <object width="560" height="315" data="[https://www.youtube.com/embed/0mTAscD4vt8](https://www.youtube.com/embed/2h0PraTkkpg)">
     </object>
   </body>
 </html>
